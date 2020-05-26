@@ -1,10 +1,13 @@
 _repo: Le-roi-Voltaire_62196
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Jules, Janin
     gutenberg_agent_id: '51820'
     url: http://www.gutenberg.org/2009/agents/51820
+covers:
+- cover_type: archival
+  image_path: 62196-h/images/cover.jpg
 creator:
   author:
     agent_name: Houssaye, Arsène
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ars%C3%A8ne_Houssaye
     - https://fr.wikipedia.org/wiki/Ars%C3%A8ne_Houssaye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62196#Le-roi-Voltaire
 gutenberg_issued: '2020-05-22'
 gutenberg_type: Text
 identifiers:
